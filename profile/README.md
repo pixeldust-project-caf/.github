@@ -3,7 +3,7 @@
 PixelDust Project CAF
 =====================
 
-[![Download PixelDustProject](https://img.shields.io/sourceforge/dt/pixeldustproject.svg)](https://sourceforge.net/projects/pixeldustproject/files/latest/download)
+[![Download PixelDustProject](https://img.shields.io/sourceforge/dt/pixeldustproject.svg)](https://sourceforge.net/projects/pixeldustproject/files/ota/)
 
 Welcome stranger! You have discovered our core.
 
