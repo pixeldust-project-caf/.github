@@ -21,7 +21,10 @@ After visiting these repositories, familiarize yourself with our build system an
 
 1. Adapt your device tree / create files according to our method. Examples: https://github.com/pixeldust-project-caf/android_vendor_pixeldust/tree/saltedcaramel/products
 2. It's recommend to start with an empty dependencies file. Instead, clone the repos that you need additionally or have to change manually until your build is successful.
-3. You can easily trigger your build by using our script: ./rom-build.sh <device>
+3. You can easily trigger your build by using our script:
+```bash
+./rom-build.sh <device>
+```
 
 Feel free to visit our website or Telegram group. For more information on how to apply as a maintainer visit our [Documentations](https://github.com/pixeldust-project-caf/Documentations#readme). Thanks!
 
