@@ -26,7 +26,7 @@ After visiting these repositories, familiarize yourself with our build system an
 ./rom-build.sh <device>
 ```
 
-Feel free to visit our website or Telegram group. For more information on how to apply as a maintainer visit our [Documentations](https://github.com/pixeldust-project-caf/Documentations#readme). Thanks!
+You can also find downloads for officially supported devices on our our [website](https://pixeldust-project.com) or browse our Telegram groups. For more information on how to apply as a maintainer visit our [Documentations](https://github.com/pixeldust-project-caf/Documentations#readme). Thanks!
 
 ### Important Links
 - [Telegram Announcements Channel](https://t.me/pixeldustproject)
