@@ -5,7 +5,7 @@ PixelDust Project CAF
 
 [![Download PixelDustProject](https://img.shields.io/sourceforge/dt/pixeldustproject.svg)](https://sourceforge.net/projects/pixeldustproject/files/ota/)
 
-Welcome stranger! You have discovered our core.
+PixelDust is a CAF based ROM inspired by the original Google Pixel firmware with support for almost all Pixel features available.
 
 Now is your chance to get this ROM onto your device and enjoy the PixelDust Goodness!
 
