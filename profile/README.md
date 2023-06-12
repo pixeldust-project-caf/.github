@@ -19,7 +19,7 @@ You can visit the following repositories for better insights:
 
 After visiting these repositories, familiarize yourself with our build system and try to follow the steps below:
 
-1. Adapt your device tree / create files according to our method. Examples: https://github.com/pixeldust-project-caf/android_vendor_pixeldust/tree/saltedcaramel/products
+1. Adapt your device tree / create files according to our method. Examples: https://github.com/pixeldust-project-caf/android_vendor_pixeldust/tree/tartufo-qpr2/products
 2. It's recommend to start with an empty dependencies file. Instead, clone the repos that you need additionally or have to change manually until your build is successful.
 3. You can easily trigger your build by using our script:
 ```bash
