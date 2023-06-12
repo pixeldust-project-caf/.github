@@ -1,4 +1,4 @@
-![PixelDust Project](https://github.com/pixeldust-project-caf/manifest/raw/saltedcaramel/PixelDust_Header.png)
+![PixelDust Project](https://github.com/pixeldust-project-caf/manifest/raw/tartufo/PixelDust_Header.png)
 
 PixelDust Project CAF
 =====================
